@@ -16,6 +16,10 @@ body {
 	color: #4a4679;
 }
 
+.navbar-brand img {
+	margin-right: 50px;
+}
+
 .flex-d,
 .habilities {
 	display: flex;
