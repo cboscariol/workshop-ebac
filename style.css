@@ -1,0 +1,45 @@
+body {
+	background-color: #d5e0e0;
+	color: #4a4679;
+}
+
+.profile-img {
+	width: 320px;
+	height: auto;
+	border: 4px solid #4a4679;
+}
+.navbar {
+	background-color: #d5e0e0;
+}
+
+.navbar-light .navbar-brand {
+	color: #4a4679;
+}
+
+.flex-d,
+.habilities {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 50px;
+	margin: 100px auto auto 50px;
+	flex-flow: wrap;
+}
+
+.h2-habilities {
+	text-align: center;
+}
+
+.card {
+	background-color: #d5e0e0;
+	border: none;
+}
+
+.card img {
+	width: 200px;
+	transform: translate(30px);
+}
+
+.footer {
+	margin-top: 50px;
+}
